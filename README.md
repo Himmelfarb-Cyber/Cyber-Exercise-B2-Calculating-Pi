@@ -1,6 +1,5 @@
-Exercise B2: Pi 
+Exercise B2: Calculating Pi 
 
-Calculating Pi
 It is possible to get an estimate of the mathematical constant π by using a random process. The idea is based on the fact that the area of a circle of radius 1 is equal to π, and the area of a quarter of that circle is π/4. Here is a picture of a quarter of a circle of radius 1, inside a 1-by-1 square:
 
 
